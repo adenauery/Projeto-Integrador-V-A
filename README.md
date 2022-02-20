@@ -8,4 +8,4 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 
 ## Links Relacionados
 
-Uma Máquina Virtual já configurada e com exemplos do Emulador CORE pode ser obtida neste **[link](https://mega.nz/file/oroCVIRD#UiPBNszeFThJVUrYXcPt133gR8gwqv2NSmIykScwEt8)**
+Uma Máquina Virtual com o CORE já configurado e com exemplos de rede pode ser obtida neste **[link](https://mega.nz/file/oroCVIRD#UiPBNszeFThJVUrYXcPt133gR8gwqv2NSmIykScwEt8)**
