@@ -6,6 +6,6 @@ Tendo por base os conceitos explorados nas disciplinas de “Redes Sem Fio e Com
 
 Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5ZKol7v9w8nf8ivg/edit?usp=sharing)** está disponível o seu Plano de Execução.
 
-## Links Relacionados
+### Links Relacionados
 
 Uma Máquina Virtual com o CORE já configurado e com exemplos de rede pode ser obtida neste **[link](https://mega.nz/file/oroCVIRD#UiPBNszeFThJVUrYXcPt133gR8gwqv2NSmIykScwEt8)**
