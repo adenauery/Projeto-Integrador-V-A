@@ -8,7 +8,6 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 
 ### Professores Responsáveis
 
-Emails para contato:
 * Adenauer Yamin - adenauer.yamin at ucpel.edu.br
 * Victoria Souto - victoria.souto at ucpel.edu.br
 
