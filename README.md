@@ -15,4 +15,4 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 ### Links Relacionados:
 
 * [Site Oficial do CORE](https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Information-Technology/NCS/CORE/)
-* Máquina Virtual com o CORE já configurado e com exemplos de rede pode ser obtida neste **[link](https://mega.nz/file/oroCVIRD#UiPBNszeFThJVUrYXcPt133gR8gwqv2NSmIykScwEt8)**
+* Máquina Virtual com o CORE já configurado e com exemplos de rede pode ser obtida neste **[link](https://mega.nz/file/kqYjjYTL#C_dC2pSFR9ktifIlm_Xtfje0n8qCABu4tyjnp-2g-zw)**
