@@ -14,12 +14,12 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 
 ### Links Relacionados:
 
-* [Site Oficial do CORE](https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Information-Technology/NCS/CORE/)
+* **[Site Oficial do CORE](https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Information-Technology/NCS/CORE/)**
 
 * Materiais para download disponíveis na **[área da profa. Victoria](https://drive.google.com/drive/u/0/folders/1Br5WRXvqyvaAPmqad2RnRHZbGuk88Mtm)** no Google:
   * **[Máquina Virtual com o CORE instalado](https://drive.google.com/file/d/11VVABrhvjM7RNeLUvg92XlbPjTp0r_fj/view?usp=sharing)**
   * **[Instalador do VMWare - VMware-player-full-16.2.2-19200509.exe](https://drive.google.com/file/d/1PBE5Jm_TWVtyvRX8ZrJPMqYdbHbT51Ne/view?usp=sharing)**
 
 * Abaixo dois tutoriais de como abrir arquivos VMDK (padrão VMWare) no VirtualBox:
-  * [Tutorial em Inglês](https://techathlon.com/how-to-run-a-vmdk-file-in-oracle-virtualbox/)
-  * [Tutorial em Português](https://appleglitz.com/portuguese/como-abrir-um-arquivo-vmdk-no-virtualbox/)
+  * **[Tutorial em Inglês](https://techathlon.com/how-to-run-a-vmdk-file-in-oracle-virtualbox/)**
+  * **[Tutorial em Português](https://appleglitz.com/portuguese/como-abrir-um-arquivo-vmdk-no-virtualbox/)**
