@@ -11,6 +11,9 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 * Adenauer Yamin - adenauer.yamin at ucpel.edu.br
 * Victoria Souto - victoria.souto at ucpel.edu.br
 
+### Material Encontros
+
+* **[Slides Encontro 26/02](https://drive.google.com/file/d/1xeK9NlUdIgcdJCZnduJuT-v1HL8brV0g/view?usp=sharing)**
 
 ### Links Relacionados:
 
