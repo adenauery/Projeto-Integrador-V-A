@@ -26,3 +26,8 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 * Abaixo dois tutoriais de como abrir arquivos VMDK (padrão VMWare) no VirtualBox:
   * **[Tutorial em Inglês](https://techathlon.com/how-to-run-a-vmdk-file-in-oracle-virtualbox/)**
   * **[Tutorial em Português](https://appleglitz.com/portuguese/como-abrir-um-arquivo-vmdk-no-virtualbox/)**
+
+* Principais Protocolos de Roteamento:
+  * [Roteamento: O que é Importante Saber - RNP](https://memoria.rnp.br/newsgen/9705/n1-1.html)
+  * Pesquisa Google: principais protocolos roteamento
+  * [Explicação dos 5 principais protocolos de roteamento de rede](https://fiodevida.com/explicacao-dos-5-principais-protocolos-de-roteamento-de-rede/)
