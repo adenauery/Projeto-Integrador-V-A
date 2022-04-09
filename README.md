@@ -37,4 +37,5 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 
 * Criar uma rede com no mínimo dois roteadores, dois switches e diversos equipamentos conecatos em cada switch.
 * Realizar um traceroute observando a presença de ambos roteadores na rota, bem como o não aparecimentos dos switchs
-* 
+* Disparar um ping de longa duração entre os dois nodos.
+* Utilizar o WireSharck para observar o tráfego nos roteadores que interligam os nodos particpantes do ping
