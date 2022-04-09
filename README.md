@@ -31,3 +31,8 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
   * [Roteamento: O que é Importante Saber - RNP](https://memoria.rnp.br/newsgen/9705/n1-1.html)
   * Pesquisa Google: principais protocolos roteamento
   * [Explicação dos 5 principais protocolos de roteamento de rede](https://fiodevida.com/explicacao-dos-5-principais-protocolos-de-roteamento-de-rede/)
+
+
+### Procedimentos a Serem Registrados na Entrega (Relatório) Final
+
+* Criar uma rede com no mínimo dois roteadores, dois switches e diversos equipamentos conecatos em cada switch.
