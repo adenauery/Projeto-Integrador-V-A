@@ -39,3 +39,6 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 * Realizar um traceroute observando a presença de ambos roteadores na rota, bem como o não aparecimentos dos switchs
 * Disparar um ping de longa duração entre os dois nodos.
 * Utilizar o WireSharck para observar o tráfego nos roteadores que interligam os nodos particpantes do ping
+* Medir a velocidade de comunicação utilizando o aplicativo iperf
+   * No lado servidor utilizar - c <nodo que esteja executando o servidor do iperf>
+   * No lado cliente (outro nodo) utilizar o comando iperf -s
