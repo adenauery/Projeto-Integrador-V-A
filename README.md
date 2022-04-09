@@ -36,3 +36,4 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 ### Procedimentos a Serem Registrados na Entrega (Relatório) Final
 
 * Criar uma rede com no mínimo dois roteadores, dois switches e diversos equipamentos conecatos em cada switch.
+* Realizar um traceroute observando a presença dos dois roteadores.
