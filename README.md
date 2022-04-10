@@ -43,3 +43,4 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
    * No lado servidor utilizar: o comando iperf- c \<nodo que esteja executando o servidor do iperf\>
    * No lado cliente (outro nodo) utilizar: o comando iperf -s
    * Trocar a latência da rede incluindo atrasos (por exemplo 10 ms) e medindo a velocidade antes e depois da inclusão dos atrasos.
+* **IMPORTANTE:** A lista de procedimentos será complementada pela Profa. Victória Souto após a aula de 11/04/2022, segunda-feira.
