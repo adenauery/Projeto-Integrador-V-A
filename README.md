@@ -42,4 +42,4 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 * Medir a velocidade de comunicação utilizando o aplicativo iperf
    * No lado servidor utilizar: o comando iperf- c \<nodo que esteja executando o servidor do iperf\>
    * No lado cliente (outro nodo) utilizar: o comando iperf -s
-   * Trocar o a latência da rede incluindo atrasos e medindo a velocidade antes e depois da inclusão dos atrasos (10 ms).
+   * Trocar a latência da rede incluindo atrasos (por exemplo 10 ms) e medindo a velocidade antes e depois da inclusão dos atrasos.
