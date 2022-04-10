@@ -1,4 +1,4 @@
-# Projeto-Integrador-V-A
+# Projeto Integrador V - A
 
 Bem vindos ao repositório que será utilizado no PI V-A.
 
