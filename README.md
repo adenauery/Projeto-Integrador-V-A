@@ -14,6 +14,7 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 ### Material Encontros
 
 * **[Slides Encontro 26/02](https://drive.google.com/file/d/1xeK9NlUdIgcdJCZnduJuT-v1HL8brV0g/view?usp=sharing)**
+* **[Slides Web 11/04](https://docs.google.com/presentation/d/1IjiP7ROJc4lbp8I3zHwBDOXwwzGp_hNx/edit?usp=sharing&ouid=112819199735841573348&rtpof=true&sd=true)**
 
 ### Links Relacionados:
 
@@ -36,6 +37,7 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 ### Procedimentos a Serem Registrados na Entrega (Relatório) Final
 
 * Criar uma rede com no mínimo dois roteadores, dois switches e diversos equipamentos conecatos em cada switch.
+* Realizar a criação das rotas considerando o Roteamento Estático da rede garantindo que todos os hosts da rede consigam se comunicar.
 * Realizar um traceroute observando a presença de ambos roteadores na rota, bem como o não aparecimentos dos switchs
 * Disparar um ping de longa duração entre os dois nodos.
 * Utilizar o WireSharck para observar o tráfego nos roteadores que interligam os nodos particpantes do ping
@@ -43,4 +45,4 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
    * No lado servidor utilizar: o comando iperf- c \<nodo que esteja executando o servidor do iperf\>
    * No lado cliente (outro nodo) utilizar: o comando iperf -s
    * Trocar a latência da rede incluindo atrasos (por exemplo 10 ms) e medindo a velocidade antes e depois da inclusão dos atrasos.
-* **IMPORTANTE:** A lista de procedimentos será revisada e/ou complementada pela Profa. Victória Souto após a aula de 11/04/2022, segunda-feira.
+
