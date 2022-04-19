@@ -36,13 +36,13 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
 
 ### Procedimentos a Serem Registrados na Entrega (Relatório) Final
 
-* Criar uma rede com no mínimo dois roteadores, dois switches e diversos equipamentos conecatos em cada switch.
-* Realizar a criação das rotas considerando o Roteamento Estático da rede garantindo que todos os hosts da rede consigam se comunicar.
-* Realizar um traceroute observando a presença de ambos roteadores na rota, bem como o não aparecimentos dos switchs
+* Criar uma rede com no mínimo dois roteadores, dois switches e no mínimo um equipamento conectado em cada switch.
+* Realizar a criação das rotas considerando o Roteamento Estático da rede, garantindo que todos os equipamentos da rede consigam se comunicar.
+* Realizar um traceroute observando a presença dos roteadores na rota, bem como o não aparecimentos dos switchs
 * Disparar um ping de longa duração entre os dois nodos.
-* Utilizar o WireSharck para observar o tráfego nos roteadores que interligam os nodos particpantes do ping
+* Utilizar o WireSharck para observar o tráfego em um dos roteadores que interliga os equipamentos particpantes do ping
 * Medir a velocidade de comunicação utilizando o aplicativo iperf
    * No lado servidor utilizar: o comando iperf- c \<nodo que esteja executando o servidor do iperf\>
    * No lado cliente (outro nodo) utilizar: o comando iperf -s
-   * Trocar a latência da rede incluindo atrasos (por exemplo 10 ms) e medindo a velocidade antes e depois da inclusão dos atrasos.
+   * Fazer uma medição com o iperf utilizando os links "originais" da rede.  Trocar a latência da rede incluindo um atraso (Delay no Core), por exemplo 10 ms, e medir novamente a velocidade após a inclusão do atraso. Ao invés do atraso, podem ser feitas medições utilizando o recurso de limitação da banda passante (Bandwidth no Core).
 
