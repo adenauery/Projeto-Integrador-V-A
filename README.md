@@ -47,4 +47,4 @@ A Entrega Final, que contempla 60% da nota do projeto integrador, irá consistir
    * No lado servidor utilizar: o comando iperf- c \<nodo que esteja executando o servidor do iperf\>
    * No lado cliente (outro nodo) utilizar: o comando iperf -s
    * Fazer uma medição com o iperf utilizando os links "originais" da rede.  Trocar a latência da rede incluindo um atraso (Delay no Core), por exemplo 10 ms, e medir novamente a velocidade após a inclusão do atraso. Ao invés do atraso, podem ser feitas medições utilizando o recurso de limitação da banda passante (Bandwidth no Core). 
-
+ 
