@@ -33,8 +33,10 @@ Neste **[link](https://docs.google.com/document/d/1gXFWOfzcvUY6TXPFpbDA4SVsfwe5Z
   * Pesquisa Google: principais protocolos roteamento
   * [Explicação dos 5 principais protocolos de roteamento de rede](https://fiodevida.com/explicacao-dos-5-principais-protocolos-de-roteamento-de-rede/)
 
+### Entrega Final
+A Entrega Final, que contempla 60% da nota do projeto integrador, irá consistir da entrega de um Relatório Final que descreva os procedimentos realizados na criação e análise de rotas na plataforma CORE. A parte conceitual tratada no Entrega Parcial, também deverá ser incluída. Juntamente com o Relatório Final deverá ser também disponibilizado acesso um vídeo que trate do registrado tanto no Relatório Parcial, como no Final. No Relatório Final deverá ser incluído o link para acesso ao vídeo desenvolvido pelo grupo. O Relatório Final deverá ser entregue empregando a Plataforma A.
 
-### Procedimentos a Serem Registrados na Entrega (Relatório) Final
+#### Procedimentos Práticos a Serem Registrados na Entrega (Relatório) Final
 
 * Criar uma rede com no mínimo dois roteadores, dois switches e no mínimo um equipamento conectado em cada switch.
 * Realizar a criação das rotas considerando o Roteamento Estático da rede, garantindo que todos os equipamentos da rede consigam se comunicar.
